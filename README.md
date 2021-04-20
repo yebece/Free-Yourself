@@ -1,3 +1,5 @@
+  !["Banner"](banner.png)
+
 # Free Yourself
 
 Free Yourself's main purpose is teaching people about addictions and showing how anyone get addicted.
